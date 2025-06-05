@@ -1,1 +1,1 @@
-gta chtbot
+gta chatbot
